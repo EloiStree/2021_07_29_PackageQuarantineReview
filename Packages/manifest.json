@@ -1,5 +1,8 @@
 {
   "dependencies": {
+     "be.eloistree.license": "https://github.com/EloiStree/GeneralLicense.git", 
+     "be.eloistree.quickgitutility": "https://github.com/eloistree/2019_07_21_QuickGitUtility.git", 
+     "be.eloistree.unitypackagefacilitator": "https://github.com/eloistree/2019_07_21_UnityPackageFacilitator.git", 
     "com.unity.collab-proxy": "1.2.16",
     "com.unity.ide.rider": "1.1.4",
     "com.unity.ide.vscode": "1.2.3",

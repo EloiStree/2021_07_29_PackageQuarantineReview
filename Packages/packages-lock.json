@@ -1,5 +1,30 @@
 {
   "dependencies": {
+    "be.eloistree.license": {
+      "version": "https://github.com/EloiStree/GeneralLicense.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "d35fbe9f5cca0ad52cb1a84556efa494f97021ee"
+    },
+    "be.eloistree.quickgitutility": {
+      "version": "https://github.com/eloistree/2019_07_21_QuickGitUtility.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "be.eloistree.license": "0.0.1"
+      },
+      "hash": "dec85943fd5e2f5500350229643ec10665f5f1ac"
+    },
+    "be.eloistree.unitypackagefacilitator": {
+      "version": "https://github.com/eloistree/2019_07_21_UnityPackageFacilitator.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "be.eloistree.license": "0.0.1"
+      },
+      "hash": "5f7ff60afa54b93c5668a86d6106187f16c5c1e7"
+    },
     "com.unity.collab-proxy": {
       "version": "1.2.16",
       "depth": 0,
